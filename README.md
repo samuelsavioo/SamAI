@@ -39,7 +39,6 @@ Como o projeto foi construído para o Google Colab, executá-lo é muito simples
 4. Execute as células sequencialmente. O navegador pedirá permissão para acessar o seu microfone.
 5. Fale a sua pergunta, aguarde o processamento e ouça a resposta!
 
-> ⚠️ **Aviso de Segurança:** Nunca faça commit da sua chave de API real no GitHub. Se for subir o seu código, lembre-se de remover a chave e deixar um texto de substituição.
 
 ---
 
